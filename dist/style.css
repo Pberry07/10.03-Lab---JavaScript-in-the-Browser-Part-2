@@ -1,14 +1,17 @@
-h1{
+/* h1{
   border-color: #d3e644;
   border-style: dashed;
-}
+} */
 
 table {
   border-collapse: collapse;
   width: 100%;
   margin-bottom: 20px;
 }
-
+.done-btn {
+  border: none;
+  background-color: white;
+}
 th, td {
   padding: 12px 15px;
   text-align: left;
